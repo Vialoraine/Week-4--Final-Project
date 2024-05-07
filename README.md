@@ -6,7 +6,7 @@ BootCamp Project #2 - Kanto Pokedex
 
 I was tasked to build an application using the knowledge of JavaScript that I learned over the past week to create a front-end application that I can show potential employers.
 
-<img src= "./assets/Kanto%20Pokedex.webm">
+![](./assets/Kanto%20Pokedex.gif)
 
 ## The Concept 🎤
 
