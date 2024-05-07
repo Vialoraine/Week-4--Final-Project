@@ -11,6 +11,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  background-color: #bbbbbb;
+}
+
 h4,
 h1 {
   padding-bottom: 12px;
